@@ -5,7 +5,7 @@ package com.hayatitastan;
 public class Main {
     public static void main(String[] args) {
 
-        // if blocks
+        // if blocks vv
 
         // find the largest number
         int sayi1 = 20;
